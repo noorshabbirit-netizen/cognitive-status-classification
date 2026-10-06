@@ -140,7 +140,7 @@ This comparison shows that CDR is highly informative for distinguishing the targ
 
 
 
-The `results/` folder contains:
+The repository contains::
 
 
 
